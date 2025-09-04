@@ -1,5 +1,0 @@
-Name : Kopperla Abhinaya 
-
-Course: BCA
-
-GitHub is a platform for hosting, sharing on code using git
